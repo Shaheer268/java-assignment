@@ -1,4 +1,5 @@
 Practice questions for session 1
+
 Question 1:
 Write a program that prints the percentage marks of high school graduates by taking input
 of sumof their obtained marks and Maximum marks.
